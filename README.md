@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Niklas Daniel Jürgens!
-- 👀 I’m interested in Webdesign via Figma, Photoshop and try to learn a bit programming.
-- 🌱 I’m currently learning HTML, CSS (ik they are no programming languages)
-- 💞️ I’m looking to collaborate on AWMS - Advanced Warehouse Management
+- 👀 I’m interested in Web/Graphic Design an Low-Code Programming
 - 📫 How to reach me via Mail - niklas.daniel.juergens@philips.com
 - 🏢 Currently working for Philips Medical System DMC GmbH
 
